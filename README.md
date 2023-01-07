@@ -1,1 +1,1 @@
-# This Program is a scary prank program.
+# This Program is a very good program to run.
